@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python, flask**
 
-- 📫 How to reach me **mannshah149@gmail.com**
+- 📫 How to reach me: Email:- **mannshah149@gmail.com** LinkedIn:- **www.linkedin.com/in/mannshah14**
 
 - ⚡ Fun fact **I like to rap, and create YouTube videos**
 
