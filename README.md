@@ -1,7 +1,7 @@
 
 <img alt="Coding GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="align:center;height: 250px; width: 350px;" />
   
-<h1 align="center">Hi 👋, I'm Mann nhah</h1>
+<h1 align="center">Hi 👋, I'm Mann shah</h1>
 <h3 align="center">Versatile Fullstack Developer Proficient in Multiple Programming Languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manncodes14&label=Profile%20views&color=0e75b6&style=flat" alt="manncodes14" /> </p>
