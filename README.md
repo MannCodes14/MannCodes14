@@ -6,7 +6,7 @@
 **Decision Scientist @ Fractal Analytics**  
 Data Science | Machine Learning | MLOps | Business Intelligence | Full-Stack Development  
 📍 Mumbai, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/mannshah14) • [GitHub](https://github.com/MannCodes14)
+🔗 [LinkedIn](https://www.linkedin.com/in/mannshah14)
 
 ---
 
@@ -129,9 +129,7 @@ Built a responsive web app for scheduling and managing events, with data persist
   <a href="mailto:manndharmendra14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/MannCodes14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
