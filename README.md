@@ -1,32 +1,122 @@
+# 👋 Hi, I'm Mann Shah (Dragoon)  
 
-<img alt="Coding GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="align:center;height: 250px; width: 350px;" />
-  
-<h1 align="center">Hi 👋, I'm Mann shah</h1>
-<h3 align="center">Versatile Fullstack Developer Proficient in Multiple Programming Languages</h3>
+🎯 **Decision Scientist @ Fractal Analytics** | 🧠 **Data Science • AI/ML • Python • SQL • Power BI • Django • React**  
+🌍 Mumbai, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/mannshah14) • [GitHub](https://github.com/MannCodes14)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manncodes14&label=Profile%20views&color=0e75b6&style=flat" alt="manncodes14" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **A gaming website that has many features such as digital wallet, payment gateway, an AI that analysis the past performance of the gamer and gives suggestion**
+I’m a **Decision Scientist at Fractal Analytics**, passionate about combining **data science, software engineering, and AI** to solve real-world business problems.  
+With a background in **Information Technology (B.Sc IT)** and hands-on experience in **AI-driven development**, I specialize in transforming data into impactful solutions through predictive modeling, analytics dashboards, and full-stack applications.
 
-- 🌱 I’m currently learning **Django, Java Servlet, React JS , Data Analysis**
+---
 
-- 💬 Ask me about **python, flask**
+## 🧩 Technical Skills
 
-- 📫 How to reach me: Email:- **mannshah149@gmail.com** LinkedIn:- **www.linkedin.com/in/mannshah14**
+**Languages:** Python, C, C++, Java, JavaScript, SQL  
+**Frameworks & Tools:** Django, React.js, Bootstrap, REST APIs  
+**Data Analytics & BI:** Power BI, Tableau, Qlik Sense, Excel, ETL, EDA  
+**AI & ML:** Machine Learning, MLOps, NLP, YOLOv5, Predictive Modeling  
+**Databases:** PostgreSQL, MySQL, MS SQL Server  
+**Dev Tools:** Git, Docker, AWS, VS Code, Jupyter Notebook  
 
-- ⚡ Fun fact **I like to rap, and create YouTube videos**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mann-shah27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mann-shah27" height="30" width="40" /></a>
-<a href="https://instagram.com/_shah.mann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shah.mann_" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🧠 Decision Scientist (Imagineer) — [Fractal Analytics](https://fractal.ai/)
+**Sep 2025 – Present | Mumbai, India (Hybrid)**  
+- Solving business problems through **AI/ML models**, **data-driven insights**, and **dashboard development**.  
+- Collaborating with cross-functional teams to design and deploy **end-to-end scalable ML solutions**.  
+- Hands-on experience with **Customer Lifetime Value prediction**, **risk modeling**, and **automated analytics workflows**.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manncodes14&show_icons=true&locale=en&layout=compact" alt="manncodes14" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manncodes14&show_icons=true&locale=en" alt="manncodes14" /></p>
+## 🧠 Featured Projects
+
+### 🛒 [Sellvana – AI-Based E-Commerce Platform](#)
+**Tech:** Django • ReactJS • AI • YOLOv5 • PostgreSQL  
+Built an AI-powered e-commerce platform that automates product listings, enables **image-based search**, and supports **secure real-time transactions**.  
+- 🧠 Integrated YOLOv5 for automatic tagging and product detection.  
+- 🔎 Enabled intelligent search using text and image inputs.  
+- 💬 Added chatbot & live chat support for customer assistance.
+
+---
+
+### 💬 [ChatNest – Real-Time Chat Application](#)
+**Tech:** Django • Channels • WebSockets • REST APIs • MySQL  
+Developed a secure, real-time chat app supporting multiple rooms and persistent chat history.  
+- ⚙️ Built with Django backend and WebSocket communication.  
+- 📱 Responsive UI with Bootstrap for smooth cross-device chatting.  
+
+---
+
+### 📊 [Swiggy Sales Analysis Dashboard](#)
+**Tech:** Power BI • SQL • Excel  
+Created an **interactive BI dashboard** that uncovers sales trends, customer preferences, and restaurant performance.  
+- 🔹 ETL process to clean and model 5,500+ data rows.  
+- 📈 Time-series forecasting for demand prediction.  
+- 🗺️ Geographic insights across multiple cities.  
+
+---
+
+### 🛍️ [Zepto Sales Analysis Report](#)
+**Tech:** Microsoft Excel  
+Designed a **dynamic sales report** with pivot tables and visual analytics.  
+- 📊 Highlighted sales performance, demographics & payment trends.  
+- 🔍 Provided actionable insights into revenue optimization.  
+
+---
+
+### 🗣️ [Voice-Activated Personal Assistant](#)
+**Tech:** Python • SpeechRecognition • Automation  
+Created a **voice-controlled assistant** to automate web browsing, emails, and system tasks.  
+- 🧩 Integrated text-to-speech and speech recognition modules.  
+- ⚙️ Enhanced productivity via voice-driven commands.  
+
+---
+
+### 🔐 [Interactive Authentication System](#)
+**Tech:** Django • HTML • CSS • Bootstrap  
+Developed a **secure user authentication and registration system** with automatic redirection and session management.
+
+---
+
+### 🎉 [Event Management Web App](#)
+**Tech:** HTML5 • JavaScript • Bootstrap  
+Built an **event scheduling platform** storing details via **LocalStorage** with an intuitive table-based dashboard UI.
+
+---
+
+## 🧠 Certifications
+
+- **Generative AI with Large Language Models** – DeepLearning.AI & AWS  
+- **Data Science Methodology** – IBM  
+- **Tools for Data Science (V2)** – Coursera  
+- **Data Science Orientation** – Coursera  
+
+---
+
+## 🧩 Education
+
+🎓 **Bachelor of Science in Information Technology (BSc IT)**  
+*Usha Pravin Gandhi College of Arts, Science and Commerce*  
+
+---
+
+## ⚡ Fun Fact
+
+> I love blending creativity with data — whether it’s building AI-powered platforms or visualizing insights that tell a story.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannshah14)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MannCodes14)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manndharmendra14@gmail.com)
+
+---
+
+⭐ **"Turning data into intelligence, and intelligence into impact."**
