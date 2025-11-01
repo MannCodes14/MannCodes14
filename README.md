@@ -1,10 +1,10 @@
 <!-- Profile Header Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="AI banner"/>
 
-# Hi, I'm Mann Shah
+# Mann Shah
 
 **Decision Scientist @ Fractal Analytics**  
-Data Science | Machine Learning | AI/ML Ops | BI Dashboards | Full-Stack Development  
+Data Science | Machine Learning | MLOps | Business Intelligence | Full-Stack Development  
 📍 Mumbai, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/mannshah14) • [GitHub](https://github.com/MannCodes14)
 
@@ -12,8 +12,8 @@ Data Science | Machine Learning | AI/ML Ops | BI Dashboards | Full-Stack Develop
 
 ## 👨‍💻 About Me
 
-I’m a **Decision Scientist at Fractal Analytics**, passionate about using **data-driven intelligence and AI** to solve real-world business problems.  
-My work blends **Machine Learning**, **Data Analytics**, and **Full-Stack Development** to deliver scalable, insightful, and production-ready solutions.
+I’m a **Decision Scientist at Fractal Analytics**, passionate about transforming data into actionable intelligence through **AI, ML, and advanced analytics**.  
+My expertise bridges **data science, business problem-solving, and full-stack development**, crafting end-to-end intelligent systems and dashboards that drive real-world decisions.
 
 ---
 
@@ -35,68 +35,72 @@ My work blends **Machine Learning**, **Data Analytics**, and **Full-Stack Develo
 **Decision Scientist (Imagineer)** – [Fractal Analytics](https://fractal.ai/)  
 *Sep 2025 – Present | Mumbai, India (Hybrid)*  
 
-- Designing and deploying **AI/ML models** to optimize business decisions.  
-- Creating **data pipelines** and **BI dashboards** for real-time analytics.  
-- Collaborating across teams to build **scalable data science solutions** in production.
+- Designing and deploying **AI/ML models** to optimize business outcomes.  
+- Developing **automated data workflows** and interactive **BI dashboards**.  
+- Collaborating with cross-functional teams to build **production-ready ML solutions**.  
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Sellvana – AI-Based E-Commerce Platform](#)
+### [Sellvana – AI-Based E-Commerce Platform](https://github.com/MannCodes14/Sellvana-3)
 **Tech:** Django • ReactJS • AI • YOLOv5 • PostgreSQL  
-- Developed an AI-powered marketplace with automated product detection and image-based search.  
-- Integrated YOLOv5 for product tagging and object recognition.  
-- Designed modular backend APIs and React frontend for smooth UX.
+Built an AI-powered e-commerce platform that automates product tagging and enables image-based search.  
+- Integrated YOLOv5 for automatic product detection and tagging.  
+- Implemented modular REST APIs and an intelligent recommendation engine.  
+- Developed dynamic, responsive UI using React and Bootstrap.
 
 ---
 
-### [ChatNest – Real-Time Chat Application](#)
+### [ChatNest – Real-Time Chat Application](https://github.com/MannCodes14/ChatNest-Chatting-website)
 **Tech:** Django Channels • WebSockets • REST APIs • MySQL  
-- Built a full-stack real-time chat app with private & group messaging.  
-- Implemented persistent chat history and live WebSocket communication.
+Created a fully functional real-time chat system with private and group messaging support.  
+- Integrated Django Channels for asynchronous WebSocket handling.  
+- Added persistent chat history and clean authentication flow.
 
 ---
 
-### [Swiggy Sales Analysis Dashboard](#)
-**Tech:** Power BI • SQL • Excel  
-- Designed an interactive BI dashboard to visualize sales, trends, and performance KPIs.  
-- Implemented ETL workflows and dynamic filters for ad-hoc insights.
-
----
-
-### [Zepto Sales Analysis Report](#)
-**Tech:** Excel  
-- Automated sales analytics using pivot tables, macros, and slicers.  
-- Delivered insight-driven visualizations to optimize sales strategy.
-
----
-
-### [Voice-Activated Personal Assistant](#)
+### [GodAI – Voice-Activated Personal Assistant](https://github.com/MannCodes14/GodAi)
 **Tech:** Python • SpeechRecognition • Automation  
-- Built a personal assistant capable of executing system commands via voice.  
-- Integrated text-to-speech and API-based task automation.
+Developed a smart voice assistant that automates daily tasks, web operations, and email communication.  
+- Implemented voice-based command recognition using SpeechRecognition API.  
+- Integrated TTS for conversational feedback and improved accessibility.
 
 ---
 
-### [Interactive Authentication System](#)
+### Swiggy Sales Analysis Dashboard *(Local Project)*
+**Tech:** Power BI • SQL • Excel  
+Designed an **interactive analytics dashboard** visualizing sales, customer behavior, and KPIs.  
+- Performed ETL, data modeling, and built custom DAX measures.  
+- Provided actionable insights for decision-making.
+
+---
+
+### Zepto Sales Analysis *(Local Project)*
+**Tech:** Excel  
+Built an **Excel-based report** with pivot charts and dynamic dashboards.  
+- Automated performance tracking and visual insights.
+
+---
+
+### Interactive Authentication System *(Local Project)*
 **Tech:** Django • HTML • CSS • Bootstrap  
-- Developed a secure and responsive login-registration system with session control.
+Developed a secure authentication and registration system with session handling.
 
 ---
 
-### [Event Management Web App](#)
+### Event Management Web App *(Local Project)*
 **Tech:** HTML5 • JavaScript • Bootstrap  
-- Designed a browser-based event planner using local storage for data persistence.
+Built a responsive web app for scheduling and managing events, with data persistence using local storage.
 
 ---
 
 ## 🧩 Certifications
 
-- Generative AI with Large Language Models — *DeepLearning.AI & AWS*  
-- Data Science Methodology — *IBM*  
-- Tools for Data Science (V2) — *Coursera*  
-- Data Science Orientation — *Coursera*
+- **Generative AI with Large Language Models** — DeepLearning.AI & AWS  
+- **Data Science Methodology** — IBM  
+- **Tools for Data Science (V2)** — Coursera  
+- **Data Science Orientation** — Coursera  
 
 ---
 
@@ -110,15 +114,15 @@ My work blends **Machine Learning**, **Data Analytics**, and **Full-Stack Develo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MannCodes14&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MannCodes14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MannCodes14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MannCodes14&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mannshah14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
