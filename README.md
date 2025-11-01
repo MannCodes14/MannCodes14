@@ -10,14 +10,14 @@ Data Science | Machine Learning | MLOps | Business Intelligence | Full-Stack Dev
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Decision Scientist at Fractal Analytics**, passionate about transforming data into actionable intelligence through **AI, ML, and advanced analytics**.  
 My expertise bridges **data science, business problem-solving, and full-stack development**, crafting end-to-end intelligent systems and dashboards that drive real-world decisions.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
@@ -30,7 +30,7 @@ My expertise bridges **data science, business problem-solving, and full-stack de
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Decision Scientist (Imagineer)** – [Fractal Analytics](https://fractal.ai/)  
 *Sep 2025 – Present | Mumbai, India (Hybrid)*  
@@ -41,7 +41,7 @@ My expertise bridges **data science, business problem-solving, and full-stack de
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Sellvana – AI-Based E-Commerce Platform](https://github.com/MannCodes14/Sellvana-3)
 **Tech:** Django • ReactJS • AI • YOLOv5 • PostgreSQL  
@@ -95,7 +95,7 @@ Built a responsive web app for scheduling and managing events, with data persist
 
 ---
 
-## 🧩 Certifications
+## Certifications
 
 - **Generative AI with Large Language Models** — DeepLearning.AI & AWS  
 - **Data Science Methodology** — IBM  
@@ -104,14 +104,14 @@ Built a responsive web app for scheduling and managing events, with data persist
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science (BSc IT)**  
 *Usha Pravin Gandhi College of Arts, Science and Commerce*  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MannCodes14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%"/>
@@ -120,7 +120,7 @@ Built a responsive web app for scheduling and managing events, with data persist
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mannshah14" target="_blank">
@@ -129,7 +129,6 @@ Built a responsive web app for scheduling and managing events, with data persist
   <a href="mailto:manndharmendra14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
 </p>
 
 ---
