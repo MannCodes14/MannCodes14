@@ -1,6 +1,4 @@
 <!-- Profile Header Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/213911709-0f3604a2-ec8a-4abf-9711-b3c0639d7a5c.gif" width="100%" alt="AI banner"/>
-
 # Mann Shah
 
 **Decision Scientist @ Fractal Analytics**  
